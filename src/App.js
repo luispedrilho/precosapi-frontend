@@ -8,13 +8,16 @@ const App = () => {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
 
+  // Usando a variável de ambiente REACT_APP_API_URL
+  const apiUrl = process.env.REACT_APP_API_URL;
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
     setLoading(true);
 
     try {
-      const response = await axios.get('http://localhost:8080/search', {
+      const response = await axios.get(`${apiUrl}/search`, {
         params: { keyword },
       });
       setPrecos(response.data);
