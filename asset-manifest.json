@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/precosapi-frontend/static/css/main.9d2560f7.css",
-    "main.js": "/precosapi-frontend/static/js/main.01541b3b.js",
+    "main.css": "/precosapi-frontend/static/css/main.f0fc37c3.css",
+    "main.js": "/precosapi-frontend/static/js/main.7ec2dd8d.js",
     "static/js/488.f5359b51.chunk.js": "/precosapi-frontend/static/js/488.f5359b51.chunk.js",
     "index.html": "/precosapi-frontend/index.html",
-    "main.9d2560f7.css.map": "/precosapi-frontend/static/css/main.9d2560f7.css.map",
-    "main.01541b3b.js.map": "/precosapi-frontend/static/js/main.01541b3b.js.map",
+    "main.f0fc37c3.css.map": "/precosapi-frontend/static/css/main.f0fc37c3.css.map",
+    "main.7ec2dd8d.js.map": "/precosapi-frontend/static/js/main.7ec2dd8d.js.map",
     "488.f5359b51.chunk.js.map": "/precosapi-frontend/static/js/488.f5359b51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d2560f7.css",
-    "static/js/main.01541b3b.js"
+    "static/css/main.f0fc37c3.css",
+    "static/js/main.7ec2dd8d.js"
   ]
 }
